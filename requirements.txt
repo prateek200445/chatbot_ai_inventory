@@ -1,0 +1,7 @@
+requests==2.31.0
+tabulate==0.9.0
+# No additional requirements for GUI as tkinter is included with Python
+
+# Requirements for web deployment
+streamlit==1.32.0
+pyinstaller==6.5.0  # For packaging desktop applications
